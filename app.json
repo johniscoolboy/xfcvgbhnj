@@ -1,13 +1,13 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "study",
+  "description": "study",
   "keywords": [
-    "随便"
+    "study"
   ],
   "env": {
     "PROTOCOL": {
       "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "value": "vless",
       "required": true
     },
     "UUID": {
